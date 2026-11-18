@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Evaluating prediction models on repeated measurements from the same people (smoking-lapse prediction from EMA): code"
+authors:
+  - family-names: Modiridovom
+    given-names: Ensieh
+    affiliation: "The University of Texas at San Antonio"
+  - family-names: Akopian
+    given-names: David
+    affiliation: "The University of Texas at San Antonio"
+  - family-names: Chalela
+    given-names: Patricia
+    affiliation: "UT Health San Antonio"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Evaluating Prediction Models on Repeated Measurements from the Same People: A Leakage-Free Framework Applied to Smoking-Lapse Prediction from Ecological Momentary Assessment"
+  authors:
+    - family-names: Modiridovom
+      given-names: Ensieh
+    - family-names: Akopian
+      given-names: David
+    - family-names: Chalela
+      given-names: Patricia
+  status: submitted
