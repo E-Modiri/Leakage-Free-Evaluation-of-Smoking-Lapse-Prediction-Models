@@ -12,9 +12,10 @@ authors:
     given-names: Patricia
     affiliation: "UT Health San Antonio"
 license: MIT
+repository-code: "https://github.com/E-Modiri/Leakage-Free-Evaluation-of-Smoking-Lapse-Prediction-Models"
 preferred-citation:
   type: article
-  title: "Evaluating Prediction Models on Repeated Measurements from the Same People: A Leakage-Free Framework Applied to Smoking-Lapse Prediction from Ecological Momentary Assessment"
+  title: "Evaluating prediction models on repeated measurements from the same people: A leakage-free framework applied to smoking-lapse prediction from ecological momentary assessment"
   authors:
     - family-names: Modiridovom
       given-names: Ensieh

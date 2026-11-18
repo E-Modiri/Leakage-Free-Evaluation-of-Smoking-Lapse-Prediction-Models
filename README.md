@@ -2,7 +2,7 @@
 
 Code for the paper:
 
-> Modiridovom, E., Akopian, D., & Chalela, P. *Evaluating Prediction Models on Repeated Measurements from the Same People: A Leakage-Free Framework Applied to Smoking-Lapse Prediction from Ecological Momentary Assessment.* (under review)
+> Modiridovom, E., Akopian, D., & Chalela, P. *Evaluating prediction models on repeated measurements from the same people: A leakage-free framework applied to smoking-lapse prediction from ecological momentary assessment.* Submitted to *PLOS Digital Health*.
 
 The code benchmarks 12 model families (logistic regression, random forest, XGBoost, SVM, LSTM, GRU, GRU-D, TCN, GRU-TCN, Transformer, and self-supervised GRU and GRU-D) with two feature sets on 37,002 EMA entries from 791 Smoke Free app users. Evaluation is leakage-free throughout:
 
@@ -29,8 +29,8 @@ It also fits discrete-time survival models, replicates the main checks in two pr
 ## Setup
 
 ```bash
-git clone https://github.com/E-Modiri/lapse-prediction-benchmark.git
-cd lapse-prediction-benchmark
+git clone https://github.com/E-Modiri/Leakage-Free-Evaluation-of-Smoking-Lapse-Prediction-Models.git
+cd Leakage-Free-Evaluation-of-Smoking-Lapse-Prediction-Models
 pip install -r requirements.txt
 ```
 
